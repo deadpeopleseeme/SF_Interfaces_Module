@@ -1,0 +1,14 @@
+E:\Волянск мейнпапк\code\SF_Interfaces_Module\bin\Debug\net8.0\SF_Interfaces_Module.exe
+E:\Волянск мейнпапк\code\SF_Interfaces_Module\bin\Debug\net8.0\SF_Interfaces_Module.deps.json
+E:\Волянск мейнпапк\code\SF_Interfaces_Module\bin\Debug\net8.0\SF_Interfaces_Module.runtimeconfig.json
+E:\Волянск мейнпапк\code\SF_Interfaces_Module\bin\Debug\net8.0\SF_Interfaces_Module.dll
+E:\Волянск мейнпапк\code\SF_Interfaces_Module\bin\Debug\net8.0\SF_Interfaces_Module.pdb
+E:\Волянск мейнпапк\code\SF_Interfaces_Module\obj\Debug\net8.0\SF_Interfaces_Module.GeneratedMSBuildEditorConfig.editorconfig
+E:\Волянск мейнпапк\code\SF_Interfaces_Module\obj\Debug\net8.0\SF_Interfaces_Module.AssemblyInfoInputs.cache
+E:\Волянск мейнпапк\code\SF_Interfaces_Module\obj\Debug\net8.0\SF_Interfaces_Module.AssemblyInfo.cs
+E:\Волянск мейнпапк\code\SF_Interfaces_Module\obj\Debug\net8.0\SF_Interfaces_Module.csproj.CoreCompileInputs.cache
+E:\Волянск мейнпапк\code\SF_Interfaces_Module\obj\Debug\net8.0\SF_Interfaces_Module.dll
+E:\Волянск мейнпапк\code\SF_Interfaces_Module\obj\Debug\net8.0\refint\SF_Interfaces_Module.dll
+E:\Волянск мейнпапк\code\SF_Interfaces_Module\obj\Debug\net8.0\SF_Interfaces_Module.pdb
+E:\Волянск мейнпапк\code\SF_Interfaces_Module\obj\Debug\net8.0\SF_Interfaces_Module.genruntimeconfig.cache
+E:\Волянск мейнпапк\code\SF_Interfaces_Module\obj\Debug\net8.0\ref\SF_Interfaces_Module.dll

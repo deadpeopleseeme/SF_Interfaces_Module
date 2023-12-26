@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SF_Interfaces_Module/1.0.0": {
+        "runtime": {
+          "SF_Interfaces_Module.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SF_Interfaces_Module/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
