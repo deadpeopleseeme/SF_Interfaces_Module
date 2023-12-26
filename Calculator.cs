@@ -14,6 +14,7 @@ namespace SF_Interfaces_Module
     }
     internal class Calc: ISumm
     {
+        
         public decimal? Sum(decimal? num1, decimal? num2)
         {
             return num1 + num2;
@@ -22,7 +23,7 @@ namespace SF_Interfaces_Module
         public decimal? GettingNumberFromInput(int whichNumber)
         {
             Console.WriteLine($"Введите число номер {whichNumber}: ");
-            var userInput = Console.ReadLine();
+            string userInput = Console.ReadLine().Replace(".", ",");
 
             bool isOk = decimal.TryParse(userInput, out decimal result);
             CalcLogger.DisplayCalcInfo(isOk);

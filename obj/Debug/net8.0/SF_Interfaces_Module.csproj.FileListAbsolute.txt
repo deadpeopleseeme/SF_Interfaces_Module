@@ -12,3 +12,4 @@ E:\Волянск мейнпапк\code\SF_Interfaces_Module\obj\Debug\net8.0\re
 E:\Волянск мейнпапк\code\SF_Interfaces_Module\obj\Debug\net8.0\SF_Interfaces_Module.pdb
 E:\Волянск мейнпапк\code\SF_Interfaces_Module\obj\Debug\net8.0\SF_Interfaces_Module.genruntimeconfig.cache
 E:\Волянск мейнпапк\code\SF_Interfaces_Module\obj\Debug\net8.0\ref\SF_Interfaces_Module.dll
+E:\Волянск мейнпапк\code\SF_Interfaces_Module\obj\Debug\net8.0\SF_Interfaces_Module.sourcelink.json
